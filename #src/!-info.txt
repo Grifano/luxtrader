@@ -1,0 +1,26 @@
+>>>Start: ...
+<!-- TODO: -->
+--Prepare;
+--GitInit;
+--Fonts;
+-Menu:
+--adaptive;
+-Footer:
+--adaptive;
+<!-- ********************************************************* -->
+<!--!- To fix: -->
+-
+<!-- ********************************************************* -->
+<!-- ********************************************************* -->
+<!--TODO in JS: -->
+-
+<!-- ********************************************************* -->
+<!--?- #:>Test before prodaction: -->
+- adaptive;
+- link;
+- hover;
+- add more content for testing block;
+- walidator;
+- loading speed;
+- crosbrausers;
+- refacturing code;

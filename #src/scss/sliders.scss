@@ -1,0 +1,75 @@
+/* Слайдер */
+.slick-slider {
+}
+/* Слайдер запущен */
+.slick-slider.slick-initialized {
+}
+/* Слайдер с точками */
+.slick-slider.slick-dotted {
+}
+/* Ограничивающая оболочка */
+.slick-list {
+  overflow: hidden;
+}
+/* Лента слайдов */
+.slick-track {
+  display: flex;
+}
+/* Слайд */
+.slick-slide {
+}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active {
+}
+/* Слайд основной */
+.slick-slide.slick-current {
+}
+/* Слайд по центру */
+.slick-slide.slick-center {
+}
+/* Клонированный слайд */
+.slick-slide.slick-cloned {
+}
+/* Стрелка */
+.slider-ms__body .slick-arrow {
+  width: 40px;
+  height: 40px;
+  font-size: 0;
+  position: absolute;
+  bottom: 78px;
+  padding: 10px;
+  margin: 0px 0px 0px 0px;
+  border-radius: 50%;
+  transition: all 0.3s ease 0s;
+  @media (min-width: 1023px) and (max-height: 1366px) {
+    &:hover {
+      border-radius: 50%;
+      box-shadow: inset 0px 0px 0px 1px #fff;
+    }
+  }
+}
+/* Стрелка влево */
+.slider-ms__body .slick-arrow.slick-prev {
+  left: 0px;
+  background: url("../img/icons/p-left.svg") center no-repeat;
+}
+/* Стрелка вправо */
+.slider-ms__body .slick-arrow.slick-next {
+  right: 0px;
+  background: url("../img/icons/p-right.svg") center no-repeat;
+}
+/* Стрелка не активная */
+.slider-ms__body .slick-arrow.slick-disabled {
+}
+/* Точки (булиты) */
+.slick-dots {
+}
+.slick-dots li {
+}
+/* Активная точка */
+.slick-dots li.slick-active {
+}
+/* Элемент точки */
+.slick-dots li button {
+}
+// *** Galery ***
