@@ -3,6 +3,7 @@ FLS - practice project: Home page
 ## Skills used:
 * HTML&CSS;
 * JavaScript (simple);
+* FlexBox;
 * SASS/SCSS;
 * BEM Metodologi;
 * RWD (Responsive web design);
