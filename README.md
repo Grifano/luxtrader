@@ -9,4 +9,4 @@ FLS - practice project: Home page
 * Gulp;
 * Git;
 ## Take a look like in browser:
-👉 [Luxtrader](https://grifano.github.io/luxtrader/)
+👉 [Luxtrader](https://grifano.github.io/luxtrader/luxtrader)
